@@ -7,9 +7,11 @@ import { post as see_clearly_and_stylishly_the_magic_of_polarized_sunglasses } f
 import { post as see_life_in_style_why_retro_polarized_sunglasses_are_a_must_ } from './see-life-in-style-why-retro-polarized-sunglasses-are-a-must-.data'
 import { post as unleash_your_style_how_the_tincan_hat_elevates_any_outfit } from './unleash-your-style-how-the-tincan-hat-elevates-any-outfit.data'
 import { post as juli_sports_sunglasses_elevate_your_game_with_style_and_clar } from './juli-sports-sunglasses-elevate-your-game-with-style-and-clar.data'
+import { post as shade_your_world_discover_the_all_day_comfort_of_b_n_u_s_sun } from './shade-your-world-discover-the-all-day-comfort-of-b-n-u-s-sun.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  shade_your_world_discover_the_all_day_comfort_of_b_n_u_s_sun,
   juli_sports_sunglasses_elevate_your_game_with_style_and_clar,
   unleash_your_style_how_the_tincan_hat_elevates_any_outfit,
   see_life_in_style_why_retro_polarized_sunglasses_are_a_must_,
