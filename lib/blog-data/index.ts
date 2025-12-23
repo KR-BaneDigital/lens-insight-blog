@@ -11,9 +11,11 @@ import { post as shade_your_world_discover_the_all_day_comfort_of_b_n_u_s_sun } 
 import { post as see_the_world_in_vibrant_color_maui_jim_sunglasses_review } from './see-the-world-in-vibrant-color-maui-jim-sunglasses-review.data'
 import { post as elevate_your_style_why_persol_aviator_sunglasses_are_a_must_ } from './elevate-your-style-why-persol-aviator-sunglasses-are-a-must-.data'
 import { post as fit_over_glasses_experience_comfort_and_style_in_every_pair } from './fit-over-glasses-experience-comfort-and-style-in-every-pair.data'
+import { post as keep_little_ones_specs_secure_the_ultimate_kids_glasses_stra } from './keep-little-ones-specs-secure-the-ultimate-kids-glasses-stra.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  keep_little_ones_specs_secure_the_ultimate_kids_glasses_stra,
   fit_over_glasses_experience_comfort_and_style_in_every_pair,
   elevate_your_style_why_persol_aviator_sunglasses_are_a_must_,
   see_the_world_in_vibrant_color_maui_jim_sunglasses_review,
