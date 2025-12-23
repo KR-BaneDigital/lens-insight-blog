@@ -18,9 +18,11 @@ import { post as see_in_the_dark_how_night_vision_glasses_transform_your_nigh } 
 import { post as elevate_comfort_the_men_s_lounge_shorts_you_won_t_want_to_ta } from './elevate-comfort-the-men-s-lounge-shorts-you-won-t-want-to-ta.data'
 import { post as see_the_world_clearly_why_wearme_pro_sunglasses_are_a_must_h } from './see-the-world-clearly-why-wearme-pro-sunglasses-are-a-must-h.data'
 import { post as see_the_world_clearly_sentry_sunglasses_for_ultimate_eye_pro } from './see-the-world-clearly-sentry-sunglasses-for-ultimate-eye-pro.data'
+import { post as see_the_world_in_style_ray_ban_wayfarer_review_unveiled } from './see-the-world-in-style-ray-ban-wayfarer-review-unveiled.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  see_the_world_in_style_ray_ban_wayfarer_review_unveiled,
   see_the_world_clearly_sentry_sunglasses_for_ultimate_eye_pro,
   see_the_world_clearly_why_wearme_pro_sunglasses_are_a_must_h,
   elevate_comfort_the_men_s_lounge_shorts_you_won_t_want_to_ta,
