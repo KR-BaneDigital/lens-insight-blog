@@ -13,9 +13,11 @@ import { post as elevate_your_style_why_persol_aviator_sunglasses_are_a_must_ } 
 import { post as fit_over_glasses_experience_comfort_and_style_in_every_pair } from './fit-over-glasses-experience-comfort-and-style-in-every-pair.data'
 import { post as keep_little_ones_specs_secure_the_ultimate_kids_glasses_stra } from './keep-little-ones-specs-secure-the-ultimate-kids-glasses-stra.data'
 import { post as see_the_difference_huk_sunglasses_for_ultimate_outdoor_clari } from './see-the-difference-huk-sunglasses-for-ultimate-outdoor-clari.data'
+import { post as shield_your_eyes_in_style_kastking_sunglasses_review } from './shield-your-eyes-in-style-kastking-sunglasses-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  shield_your_eyes_in_style_kastking_sunglasses_review,
   see_the_difference_huk_sunglasses_for_ultimate_outdoor_clari,
   keep_little_ones_specs_secure_the_ultimate_kids_glasses_stra,
   fit_over_glasses_experience_comfort_and_style_in_every_pair,
