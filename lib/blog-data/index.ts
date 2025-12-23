@@ -9,9 +9,11 @@ import { post as unleash_your_style_how_the_tincan_hat_elevates_any_outfit } fro
 import { post as juli_sports_sunglasses_elevate_your_game_with_style_and_clar } from './juli-sports-sunglasses-elevate-your-game-with-style-and-clar.data'
 import { post as shade_your_world_discover_the_all_day_comfort_of_b_n_u_s_sun } from './shade-your-world-discover-the-all-day-comfort-of-b-n-u-s-sun.data'
 import { post as see_the_world_in_vibrant_color_maui_jim_sunglasses_review } from './see-the-world-in-vibrant-color-maui-jim-sunglasses-review.data'
+import { post as elevate_your_style_why_persol_aviator_sunglasses_are_a_must_ } from './elevate-your-style-why-persol-aviator-sunglasses-are-a-must-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_your_style_why_persol_aviator_sunglasses_are_a_must_,
   see_the_world_in_vibrant_color_maui_jim_sunglasses_review,
   shade_your_world_discover_the_all_day_comfort_of_b_n_u_s_sun,
   juli_sports_sunglasses_elevate_your_game_with_style_and_clar,
