@@ -15,9 +15,11 @@ import { post as keep_little_ones_specs_secure_the_ultimate_kids_glasses_stra } 
 import { post as see_the_difference_huk_sunglasses_for_ultimate_outdoor_clari } from './see-the-difference-huk-sunglasses-for-ultimate-outdoor-clari.data'
 import { post as shield_your_eyes_in_style_kastking_sunglasses_review } from './shield-your-eyes-in-style-kastking-sunglasses-review.data'
 import { post as see_in_the_dark_how_night_vision_glasses_transform_your_nigh } from './see-in-the-dark-how-night-vision-glasses-transform-your-nigh.data'
+import { post as elevate_comfort_the_men_s_lounge_shorts_you_won_t_want_to_ta } from './elevate-comfort-the-men-s-lounge-shorts-you-won-t-want-to-ta.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_comfort_the_men_s_lounge_shorts_you_won_t_want_to_ta,
   see_in_the_dark_how_night_vision_glasses_transform_your_nigh,
   shield_your_eyes_in_style_kastking_sunglasses_review,
   see_the_difference_huk_sunglasses_for_ultimate_outdoor_clari,
