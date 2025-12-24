@@ -31,9 +31,11 @@ import { post as elevate_your_style_why_sunwave_sunglasses_are_a_must_have_ac } 
 import { post as see_the_world_clearly_10x42_binoculars_for_unmatched_adventu } from './see-the-world-clearly-10x42-binoculars-for-unmatched-adventu.data'
 import { post as unlock_effortless_style_tech_morgan_tee_review_for_everyday_ } from './unlock-effortless-style-tech-morgan-tee-review-for-everyday-.data'
 import { post as see_the_world_clearly_stngr_ridge_sunglasses_that_elevate_yo } from './see-the-world-clearly-stngr-ridge-sunglasses-that-elevate-yo.data'
+import { post as see_the_world_clearly_why_tifosi_moab_glasses_are_a_game_cha } from './see-the-world-clearly-why-tifosi-moab-glasses-are-a-game-cha.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  see_the_world_clearly_why_tifosi_moab_glasses_are_a_game_cha,
   see_the_world_clearly_stngr_ridge_sunglasses_that_elevate_yo,
   unlock_effortless_style_tech_morgan_tee_review_for_everyday_,
   see_the_world_clearly_10x42_binoculars_for_unmatched_adventu,
