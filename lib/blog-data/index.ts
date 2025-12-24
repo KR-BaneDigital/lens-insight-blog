@@ -28,9 +28,11 @@ import { post as see_the_world_clearly_why_kodiak_sunglasses_are_a_game_chang } 
 import { post as sparkle_and_shade_why_glittered_square_sunglasses_are_a_must } from './sparkle-and-shade-why-glittered-square-sunglasses-are-a-must.data'
 import { post as shoutout_sunglasses_your_ultimate_style_upgrade_for_sun_soak } from './shoutout-sunglasses-your-ultimate-style-upgrade-for-sun-soak.data'
 import { post as elevate_your_style_why_sunwave_sunglasses_are_a_must_have_ac } from './elevate-your-style-why-sunwave-sunglasses-are-a-must-have-ac.data'
+import { post as see_the_world_clearly_10x42_binoculars_for_unmatched_adventu } from './see-the-world-clearly-10x42-binoculars-for-unmatched-adventu.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  see_the_world_clearly_10x42_binoculars_for_unmatched_adventu,
   elevate_your_style_why_sunwave_sunglasses_are_a_must_have_ac,
   shoutout_sunglasses_your_ultimate_style_upgrade_for_sun_soak,
   sparkle_and_shade_why_glittered_square_sunglasses_are_a_must,
