@@ -22,9 +22,11 @@ import { post as see_the_world_in_style_ray_ban_wayfarer_review_unveiled } from 
 import { post as closeup_monocular_unlock_stunning_views_and_adventure_awaits } from './closeup-monocular-unlock-stunning-views-and-adventure-awaits.data'
 import { post as see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha } from './see-beyond-the-surface-why-fishing-sunglasses-are-a-game-cha.data'
 import { post as hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer } from './hit-your-mark-why-the-truglo-red-dot-sight-is-a-game-changer.data'
+import { post as see_clearly_and_style_smart_the_ultimate_men_s_reading_glass } from './see-clearly-and-style-smart-the-ultimate-men-s-reading-glass.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  see_clearly_and_style_smart_the_ultimate_men_s_reading_glass,
   hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer,
   see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha,
   closeup_monocular_unlock_stunning_views_and_adventure_awaits,
