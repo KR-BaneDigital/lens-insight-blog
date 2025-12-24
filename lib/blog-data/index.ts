@@ -29,9 +29,11 @@ import { post as sparkle_and_shade_why_glittered_square_sunglasses_are_a_must } 
 import { post as shoutout_sunglasses_your_ultimate_style_upgrade_for_sun_soak } from './shoutout-sunglasses-your-ultimate-style-upgrade-for-sun-soak.data'
 import { post as elevate_your_style_why_sunwave_sunglasses_are_a_must_have_ac } from './elevate-your-style-why-sunwave-sunglasses-are-a-must-have-ac.data'
 import { post as see_the_world_clearly_10x42_binoculars_for_unmatched_adventu } from './see-the-world-clearly-10x42-binoculars-for-unmatched-adventu.data'
+import { post as unlock_effortless_style_tech_morgan_tee_review_for_everyday_ } from './unlock-effortless-style-tech-morgan-tee-review-for-everyday-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  unlock_effortless_style_tech_morgan_tee_review_for_everyday_,
   see_the_world_clearly_10x42_binoculars_for_unmatched_adventu,
   elevate_your_style_why_sunwave_sunglasses_are_a_must_have_ac,
   shoutout_sunglasses_your_ultimate_style_upgrade_for_sun_soak,
