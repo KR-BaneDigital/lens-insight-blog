@@ -23,9 +23,11 @@ import { post as closeup_monocular_unlock_stunning_views_and_adventure_awaits } 
 import { post as see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha } from './see-beyond-the-surface-why-fishing-sunglasses-are-a-game-cha.data'
 import { post as hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer } from './hit-your-mark-why-the-truglo-red-dot-sight-is-a-game-changer.data'
 import { post as see_clearly_and_style_smart_the_ultimate_men_s_reading_glass } from './see-clearly-and-style-smart-the-ultimate-men-s-reading-glass.data'
+import { post as compact_green_laser_illuminate_your_projects_with_precision_ } from './compact-green-laser-illuminate-your-projects-with-precision-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  compact_green_laser_illuminate_your_projects_with_precision_,
   see_clearly_and_style_smart_the_ultimate_men_s_reading_glass,
   hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer,
   see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha,
