@@ -21,9 +21,11 @@ import { post as see_the_world_clearly_sentry_sunglasses_for_ultimate_eye_pro } 
 import { post as see_the_world_in_style_ray_ban_wayfarer_review_unveiled } from './see-the-world-in-style-ray-ban-wayfarer-review-unveiled.data'
 import { post as closeup_monocular_unlock_stunning_views_and_adventure_awaits } from './closeup-monocular-unlock-stunning-views-and-adventure-awaits.data'
 import { post as see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha } from './see-beyond-the-surface-why-fishing-sunglasses-are-a-game-cha.data'
+import { post as hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer } from './hit-your-mark-why-the-truglo-red-dot-sight-is-a-game-changer.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  hit_your_mark_why_the_truglo_red_dot_sight_is_a_game_changer,
   see_beyond_the_surface_why_fishing_sunglasses_are_a_game_cha,
   closeup_monocular_unlock_stunning_views_and_adventure_awaits,
   see_the_world_in_style_ray_ban_wayfarer_review_unveiled,
