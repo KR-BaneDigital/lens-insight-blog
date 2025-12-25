@@ -35,9 +35,11 @@ import { post as see_the_world_clearly_why_tifosi_moab_glasses_are_a_game_cha } 
 import { post as fuel_your_day_the_protein_bars_variety_that_packs_a_punch } from './fuel-your-day-the-protein-bars-variety-that-packs-a-punch.data'
 import { post as see_clearly_at_night_the_game_changing_night_driving_glasses } from './see-clearly-at-night-the-game-changing-night-driving-glasses.data'
 import { post as see_clearly_on_the_slopes_falcon_ski_goggles_review_unveiled } from './see-clearly-on-the-slopes-falcon-ski-goggles-review-unveiled.data'
+import { post as never_lose_your_shades_again_the_ultimate_eyewear_retainer_s } from './never-lose-your-shades-again-the-ultimate-eyewear-retainer-s.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  never_lose_your_shades_again_the_ultimate_eyewear_retainer_s,
   see_clearly_on_the_slopes_falcon_ski_goggles_review_unveiled,
   see_clearly_at_night_the_game_changing_night_driving_glasses,
   fuel_your_day_the_protein_bars_variety_that_packs_a_punch,
