@@ -36,9 +36,11 @@ import { post as fuel_your_day_the_protein_bars_variety_that_packs_a_punch } fro
 import { post as see_clearly_at_night_the_game_changing_night_driving_glasses } from './see-clearly-at-night-the-game-changing-night-driving-glasses.data'
 import { post as see_clearly_on_the_slopes_falcon_ski_goggles_review_unveiled } from './see-clearly-on-the-slopes-falcon-ski-goggles-review-unveiled.data'
 import { post as never_lose_your_shades_again_the_ultimate_eyewear_retainer_s } from './never-lose-your-shades-again-the-ultimate-eyewear-retainer-s.data'
+import { post as never_lose_your_specs_again_the_ultimate_glasses_strap_revie } from './never-lose-your-specs-again-the-ultimate-glasses-strap-revie.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  never_lose_your_specs_again_the_ultimate_glasses_strap_revie,
   never_lose_your_shades_again_the_ultimate_eyewear_retainer_s,
   see_clearly_on_the_slopes_falcon_ski_goggles_review_unveiled,
   see_clearly_at_night_the_game_changing_night_driving_glasses,
