@@ -39,9 +39,11 @@ import { post as never_lose_your_shades_again_the_ultimate_eyewear_retainer_s } 
 import { post as never_lose_your_specs_again_the_ultimate_glasses_strap_revie } from './never-lose-your-specs-again-the-ultimate-glasses-strap-revie.data'
 import { post as never_lose_your_look_the_game_changing_eyeglasses_strap_revi } from './never-lose-your-look-the-game-changing-eyeglasses-strap-revi.data'
 import { post as never_lose_your_specs_again_the_game_changing_glasses_straps } from './never-lose-your-specs-again-the-game-changing-glasses-straps.data'
+import { post as see_the_world_clearly_spy_optic_piper_sunglasses_review } from './see-the-world-clearly-spy-optic-piper-sunglasses-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  see_the_world_clearly_spy_optic_piper_sunglasses_review,
   never_lose_your_specs_again_the_game_changing_glasses_straps,
   never_lose_your_look_the_game_changing_eyeglasses_strap_revi,
   never_lose_your_specs_again_the_ultimate_glasses_strap_revie,
