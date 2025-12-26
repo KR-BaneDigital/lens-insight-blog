@@ -41,9 +41,11 @@ import { post as never_lose_your_look_the_game_changing_eyeglasses_strap_revi } 
 import { post as never_lose_your_specs_again_the_game_changing_glasses_straps } from './never-lose-your-specs-again-the-game-changing-glasses-straps.data'
 import { post as see_the_world_clearly_spy_optic_piper_sunglasses_review } from './see-the-world-clearly-spy-optic-piper-sunglasses-review.data'
 import { post as see_the_world_in_style_rimless_mirrored_sunglasses_review } from './see-the-world-in-style-rimless-mirrored-sunglasses-review.data'
+import { post as protect_your_shades_the_sunglasses_case_that_elevates_style_ } from './protect-your-shades-the-sunglasses-case-that-elevates-style-.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  protect_your_shades_the_sunglasses_case_that_elevates_style_,
   see_the_world_in_style_rimless_mirrored_sunglasses_review,
   see_the_world_clearly_spy_optic_piper_sunglasses_review,
   never_lose_your_specs_again_the_game_changing_glasses_straps,
