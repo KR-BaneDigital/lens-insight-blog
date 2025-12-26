@@ -45,9 +45,11 @@ import { post as protect_your_shades_the_sunglasses_case_that_elevates_style_ } 
 import { post as blupond_sunglasses_case_the_stylish_shield_for_your_shades } from './blupond-sunglasses-case-the-stylish-shield-for-your-shades.data'
 import { post as elevate_your_style_why_bolon_aviator_sunglasses_are_a_must_h } from './elevate-your-style-why-bolon-aviator-sunglasses-are-a-must-h.data'
 import { post as rock_your_style_how_rocknight_sunglasses_elevate_every_outfi } from './rock-your-style-how-rocknight-sunglasses-elevate-every-outfi.data'
+import { post as wrap_yourself_in_comfort_the_poncho_liner_blanket_review } from './wrap-yourself-in-comfort-the-poncho-liner-blanket-review.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  wrap_yourself_in_comfort_the_poncho_liner_blanket_review,
   rock_your_style_how_rocknight_sunglasses_elevate_every_outfi,
   elevate_your_style_why_bolon_aviator_sunglasses_are_a_must_h,
   blupond_sunglasses_case_the_stylish_shield_for_your_shades,
