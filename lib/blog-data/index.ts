@@ -43,9 +43,11 @@ import { post as see_the_world_clearly_spy_optic_piper_sunglasses_review } from 
 import { post as see_the_world_in_style_rimless_mirrored_sunglasses_review } from './see-the-world-in-style-rimless-mirrored-sunglasses-review.data'
 import { post as protect_your_shades_the_sunglasses_case_that_elevates_style_ } from './protect-your-shades-the-sunglasses-case-that-elevates-style-.data'
 import { post as blupond_sunglasses_case_the_stylish_shield_for_your_shades } from './blupond-sunglasses-case-the-stylish-shield-for-your-shades.data'
+import { post as elevate_your_style_why_bolon_aviator_sunglasses_are_a_must_h } from './elevate-your-style-why-bolon-aviator-sunglasses-are-a-must-h.data'
 
 // Export all posts (newest first)
 export const allPosts = [
+  elevate_your_style_why_bolon_aviator_sunglasses_are_a_must_h,
   blupond_sunglasses_case_the_stylish_shield_for_your_shades,
   protect_your_shades_the_sunglasses_case_that_elevates_style_,
   see_the_world_in_style_rimless_mirrored_sunglasses_review,
